@@ -2,9 +2,9 @@
 
 Myself **Harsh Tankariya**
 
-<img align="right" alt="coding" width="280" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="right" alt="coding" width="280" src="">
 
-<p align="left"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tankariyaharsh7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/tankariyaharsh7?label=Follow&style=social)](https://github.com/tankariyaharsh7?tab=followers)-->
 
