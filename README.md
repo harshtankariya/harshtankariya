@@ -58,10 +58,10 @@ Myself **Harsh Tankariya**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankariyaharsh7&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tankariyaharsh7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtankariya&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshtankariya&show_icons=true&theme=radical" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tankariyaharsh7&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshtankariya&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
