@@ -29,12 +29,12 @@ Myself **Harsh Tankariya**
   <a href="https://www.instagram.com/harsh_tankariya__/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/kcp_0823" target="blank">
+  <!--<a href="https://www.hackerrank.com/kcp_0823" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/kcp-0823" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+  </a>-->
 </p>
 
 
