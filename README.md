@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Myself **Harsh Tankariya**
+I Am **Harsh Tankariya**
 
 <img align="right" alt="coding" width="280" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
