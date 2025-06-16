@@ -2,7 +2,7 @@
 
 Myself **Harsh Tankariya**
 
-<img align="right" alt="coding" width="280" src="">
+<img align="right" alt="coding" width="280" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tankariyaharsh7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
